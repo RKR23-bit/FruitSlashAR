@@ -1,0 +1,86 @@
+{
+  "context": {
+    "projectPath": "C:/Users/SHREYANK B U/OneDrive/Documents/GitHub/FruitSlashAR/unity/FruitSlashAR/Packages",
+    "unityVersion": "6000.0.24f1"
+  },
+  "inputs": [
+    "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Packages\\manifest.json",
+    "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Packages\\packages-lock.json"
+  ],
+  "outputs": {
+    "com.de-panther.webxr@https://github.com/De-Panther/unity-webxr-export.git?path=/Packages/webxr": {
+      "name": "com.de-panther.webxr",
+      "resolvedPath": "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Library\\PackageCache\\com.de-panther.webxr",
+      "fingerprint": "5c0812b43c4b793abb268a8233234e42653633ea",
+      "editorCompatibility": "2020.3.11f1",
+      "version": "0.22.2-preview",
+      "source": "git"
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "resolvedPath": "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Library\\PackageCache\\com.unity.ugui",
+      "fingerprint": "0187e0e77e6c4674362938fa5a77e1c92574f3dd",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "resolvedPath": "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Library\\PackageCache\\com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "resolvedPath": "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Library\\PackageCache\\com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.xr.management@4.5.0": {
+      "name": "com.unity.xr.management",
+      "resolvedPath": "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Library\\PackageCache\\com.unity.xr.management",
+      "fingerprint": "3126858600e621b17ff9bfda920ebf34b9f2414c",
+      "editorCompatibility": "2020.3.15f1",
+      "version": "4.5.0",
+      "source": "registry"
+    },
+    "com.unity.modules.vr@1.0.0": {
+      "name": "com.unity.modules.vr",
+      "resolvedPath": "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Library\\PackageCache\\com.unity.modules.vr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.xr@1.0.0": {
+      "name": "com.unity.modules.xr",
+      "resolvedPath": "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Library\\PackageCache\\com.unity.modules.xr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "resolvedPath": "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.xr.legacyinputhelpers@2.1.11": {
+      "name": "com.unity.xr.legacyinputhelpers",
+      "resolvedPath": "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers",
+      "fingerprint": "a3936666e06871a5fd0461a69a4d99efb31a21c1",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.1.11",
+      "source": "registry"
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "resolvedPath": "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "resolvedPath": "C:\\Users\\SHREYANK B U\\OneDrive\\Documents\\GitHub\\FruitSlashAR\\unity\\FruitSlashAR\\Library\\PackageCache\\com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin"
+    }
+  }
+}
